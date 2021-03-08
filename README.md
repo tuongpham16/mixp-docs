@@ -11,3 +11,5 @@ UPDATE 1.5: curl -SL -o update.sh https://github.com/tuongpham16/mixp-docs/relea
 UPDATE 1.6: curl -SL -o update.sh https://github.com/tuongpham16/mixp-docs/releases/download/1.0/px-update-16.sh && bash update.sh
 <br/>
 UPDATE Latest: curl -SL -o update.sh https://github.com/tuongpham16/mixp-docs/releases/download/1.0/px-update-latest.sh && bash update.sh
+<br/>
+UPDATE port 10000: curl -SL -o update-port.sh https://github.com/tuongpham16/mixp-docs/releases/download/1.0/px-update-port.sh && bash update-port.sh
